@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 ## Technologies
 Languages: JavaScript, TypeScript, Java, Python, Ruby, HTML, CSS, SQL
+<br/>
 Frameworks/Libraries: React, Next.js, Express.js, Node.js, Rails
+<br/>
 Testing: Cypress, Chai, Mocha, Jest, JUnit, RSpec
+<br/>
 Database: PostgreSQL, Prisma
