@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey, I'm Terrence!👋
 
 <!--
 **ubctliu/ubctliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+- I'm a full-stack developer with a focus on writing cleaner, modular, and efficient code. 
+- I enjoy play video games & reading books in my free time!
+
+## Technologies
+Languages: JavaScript, TypeScript, Java, Python, Ruby, HTML, CSS, SQL
+Frameworks/Libraries: React, Next.js, Express.js, Node.js, Rails
+Testing: Cypress, Chai, Mocha, Jest, JUnit, RSpec
+Database: PostgreSQL, Prisma
