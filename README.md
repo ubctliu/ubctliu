@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About me
 - I'm a full-stack developer with a focus on writing cleaner, modular, and efficient code. 
-- I enjoy play video games & reading books in my free time!
+- I enjoy playing video games & reading books in my free time!
 
 ## Technologies
 Languages: JavaScript, TypeScript, Java, Python, Ruby, HTML, CSS, SQL
